@@ -1,0 +1,17 @@
+h3{
+    font-size: larger;
+    font-weight: bold;
+    color: blue;
+}
+#agdum{
+    color: chartreuse;
+    background-color: black;
+}
+.messi{
+    color: brown;
+    background-color: black;
+    border: 5px solid aquamarine;
+    padding: 10px;
+    margin: 5px;
+    box-shadow: 5px 5px 10px red;
+}
